@@ -1,2 +1,2 @@
 # unity-scene-switcher
-Scene Switcher script for Unity
+Scene Switcher Window Editor tools for Unity
